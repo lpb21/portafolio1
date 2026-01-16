@@ -10,11 +10,11 @@ export default function Skills() {
     },
     {
       title: "Bases de Datos",
-      skills: ["SQL Server", "PostgreSQL", "MySQL", "MongoDB", "Sequelize ORM", "Procedimientos Almacenados", "Triggers"]
+      skills: ["SQL Server", "PostgreSQL", "MySQL", "MongoDB", "Mongo Atlas", "Sequelize ORM", "Procedimientos Almacenados", "Triggers"]
     },
     {
-      title: "DevOps & Tools",
-      skills: ["Git", "GitHub", "GitLab", "Docker", "Azure DevOps", "Confluence", "Bash", "Linux", "Windows"]
+      title: "Cloud & DevOps",
+      skills: ["Git", "GitHub", "GitLab", "Docker", "Azure DevOps", "Confluence", "Bash", "Linux", "Windows", "AWS EC2", "AWS CloudFront", "AWS S3"]
     },
     {
       title: "Testing & Quality",
@@ -26,7 +26,7 @@ export default function Skills() {
     },
     {
       title: "Otros",
-      skills: ["ISO 20022 CBPR+", "AWS (en formación)", "Highcharts", "Axios", "Visual Basic Script", "Lua", "Roblox Studio"]
+      skills: ["ISO 20022 CBPR+", "Highcharts", "Axios", "Visual Basic Script", "Lua", "Roblox Studio"]
     }
   ];
 
